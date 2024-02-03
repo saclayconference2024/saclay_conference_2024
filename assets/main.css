@@ -29,8 +29,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     color: #505050; 
-    text-align: justify;
-    text-justify: inter-word;
+    justify-content: left;
     font-family: 'Open Sans', sans-serif;
     font-size:1em;
     line-height:1.5em;
