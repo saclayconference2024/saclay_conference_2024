@@ -37,11 +37,11 @@ body{
     width: 1000px;
 }
 
-a{color: #9a9a9a; text-decoration:none;}
+a{color: #00a3a6; text-decoration:none;}
 a.current{color: #00a3a6;}
-a.current:hover{color: #e82945;}
+a.current:hover{color: #00a3a6;}
 a:hover{color: #00a3a6;}
-a:active{color: #e82945;}
+a:active{color: #00a3a6;}
 h1,h2,h3,h4{clear:left; color: #000000; margin:1.5em 0em 1em 0em; font-family: 'Open Sans', sans-serif; text-shadow: none;}
 h1{font-size:2.67em;}
 h2{font-size:2.00em;}
