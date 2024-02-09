@@ -127,4 +127,11 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     table.footer{font-size:0.33em;}
     .container {margin: 1em 2em;}
       .column {width: 100%;}
+    .body{
+    
+    width: 100px;
+  height: 100px;
+  margin: 0 auto;
+   
+  }
 }
