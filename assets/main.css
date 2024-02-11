@@ -128,7 +128,5 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     .container {margin: 1em 2em;}
     .column {width: 100%;}
     .body{width:100%; margin:0 auto;}
-    .adjusted-mobile-margin .panel-row-style {
-		margin-left: 20px !important;
-	}
+   .sqs-block-html {margin: 10px; }
 }
