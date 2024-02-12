@@ -84,7 +84,7 @@ th,td{
 /* Conference Title Logo */
 .title-container {display: flex; justify-content: center; align-items: center; height: 100vh;}
 /*.title1{color:  #00a3a6; text-shadow: 0px 0px 0px #505050; text-align: center; font-size: 3rem; line-height: 1.2;}*/
-.title1{font-size: 3rem; color: linear-gradient(to right,  #00a3a6, #017d80); text-align: center; line-height: 1.5;  max-width: 30ch;
+.title1{font-size: 3rem; color: linear-gradient(to right,  #00a3a6, #017d80); text-align: center; line-height: 1.2;  max-width: 40ch;
   white-space: pre-wrap;}
 
 /* Navigation Links (Home, Registration, etc) */
