@@ -84,8 +84,8 @@ th,td{
 /* Conference Title Logo */
 .title-container {display: flex; justify-content: center; align-items: center; height: 100vh;}
 /*.title1{color:  #00a3a6; text-shadow: 0px 0px 0px #505050; text-align: center; font-size: 3rem; line-height: 1.2;}*/
-font-size: 70px;
-.title1{font-weight: 600;
+
+.title1{font-size: 70px; font-weight: 600;
   background-image: linear-gradient(to left,  #00a3a6, #017d80);
   color: transparent;
   background-clip: text;
